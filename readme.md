@@ -21,3 +21,6 @@ airflow tasks test <dag id> <task id>
 # Tips
 Remove local `airflow.db` to reset database.
 `airflow.cfg` Executor -- Sequential. May affect dags running.
+
+# Resources
+[Operator Documentation](https://airflow.apache.org/docs/apache-airflow/stable/_api/airflow/operators/index.html)
